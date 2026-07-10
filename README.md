@@ -117,8 +117,8 @@ Here are some of my top projects showcasing my development and problem-solving s
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarsingh2007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&bg_color=0f172a" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakarsingh2007&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&bg_color=0f172a" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=prabhakarsingh2007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&bg_color=0f172a" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=prabhakarsingh2007&layout=compact&theme=tokyonight&hide_border=true&title_color=818cf8&icon_color=818cf8&text_color=e2e8f0&bg_color=0f172a" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
