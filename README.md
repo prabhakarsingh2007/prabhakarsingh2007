@@ -18,7 +18,7 @@
     <a href="mailto:pks95.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <a href="https://prabhakarsingh2007.github.io" target="_blank">
+    <a href="https://github.com/prabhakarsingh2007/portfolio" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge" />
     </a>
   </p>
@@ -74,7 +74,7 @@ Here are some of my top projects showcasing my development and problem-solving s
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-      <a href="https://github.com/prabhakarsingh2007/nss-emergency-blood-network"><b>View Code ⭐</b></a>
+      <a href="https://github.com/prabhakarsingh2007/nss_blood_system-"><b>View Code ⭐</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 KharchaGraph</h3>
@@ -84,7 +84,7 @@ Here are some of my top projects showcasing my development and problem-solving s
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       </p>
-      <a href="https://github.com/prabhakarsingh2007/KharchaGraph"><b>View Code ⭐</b></a>
+      <a href="https://github.com/prabhakarsingh2007/expense"><b>View Code ⭐</b></a>
     </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ Here are some of my top projects showcasing my development and problem-solving s
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-      <a href="https://github.com/prabhakarsingh2007/MadiCare"><b>View Code ⭐</b></a>
+      <a href="https://github.com/prabhakarsingh2007/medicare-django"><b>View Code ⭐</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
@@ -106,7 +106,7 @@ Here are some of my top projects showcasing my development and problem-solving s
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       </p>
-      <a href="https://github.com/prabhakarsingh2007/prabhakarsingh2007.github.io"><b>View Code ⭐</b></a>
+      <a href="https://github.com/prabhakarsingh2007/portfolio"><b>View Code ⭐</b></a>
     </td>
   </tr>
 </table>
@@ -155,7 +155,7 @@ Let's discuss development, collaborations, or internship opportunities!
   <a href="https://github.com/prabhakarsingh2007" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://prabhakarsingh2007.github.io" target="_blank">
+  <a href="https://github.com/prabhakarsingh2007/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
