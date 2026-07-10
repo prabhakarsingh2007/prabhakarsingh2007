@@ -74,7 +74,7 @@ Here are some of my top projects showcasing my development and problem-solving s
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
         <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-      <a href="https://github.com/prabhakarsingh2007/nss-blood-network"><b>View Code ⭐</b></a>
+      <a href="https://github.com/prabhakarsingh2007/nss-emergency-blood-network"><b>View Code ⭐</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 KharchaGraph</h3>
@@ -89,14 +89,14 @@ Here are some of my top projects showcasing my development and problem-solving s
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 PrepWise</h3>
-      <p>An interactive interview preparation platform designed to help students and job seekers master engineering core subjects and coding challenges.</p>
+      <h3>🏥 MadiCare</h3>
+      <p>A comprehensive healthcare platform designed to manage doctor appointments, digital prescriptions, and emergency medical records efficiently.</p>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/REST_API-Django-red?style=flat-square&logo=django&logoColor=white" alt="DRF" />
+        <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
-      <a href="https://github.com/prabhakarsingh2007/prepwise"><b>View Code ⭐</b></a>
+      <a href="https://github.com/prabhakarsingh2007/MadiCare"><b>View Code ⭐</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio Website</h3>
@@ -106,7 +106,7 @@ Here are some of my top projects showcasing my development and problem-solving s
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       </p>
-      <a href="https://github.com/prabhakarsingh2007/portfolio"><b>View Code ⭐</b></a>
+      <a href="https://github.com/prabhakarsingh2007/prabhakarsingh2007.github.io"><b>View Code ⭐</b></a>
     </td>
   </tr>
 </table>
